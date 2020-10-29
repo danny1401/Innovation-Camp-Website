@@ -50,7 +50,7 @@ span {position:relative; top:4px;}
 	border-top: 2px solid black;
 	background-color: #4775d1;
 	font-size: 20px;
-	text-shadow: 3px 2px black;
+	text-shadow: 2px 1px black;
 }
 .header li a:hover, .header .menu-btn:hover {background-color: #3366cc;}
 .header .logo {
